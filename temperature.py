@@ -1,4 +1,4 @@
-from sectorlib import Extractor
+from selectorlib import Extractor
 import requests
 
 
@@ -46,5 +46,5 @@ class Temperature:
 
 
 if __name__ == "__main__":
-    temperature = Temperature(city="usa", country="san francisco")
+    temperature = Temperature(country="usa", city="san francisco")
     print(temperature.get())
