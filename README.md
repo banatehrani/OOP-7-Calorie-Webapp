@@ -1,4 +1,4 @@
-### Object Oriented Programming App 7: Calories Web App
+### Object Oriented Programming App 7: Calorie Web App
 
 - **Description**: This app gets from the user his/her weight, height,
 age, city and country, then scrapes the temperature of the user's location
